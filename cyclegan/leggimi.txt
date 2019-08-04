@@ -1,1 +1,0 @@
-per continuare il training rinoninare con latest_model ecc ecc
