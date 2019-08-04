@@ -2,7 +2,8 @@
 
 ## Rule
 
-Choose a name for the model directory based on the parameters of the net
+- Choose a name for the model directory based on the parameters of the net.
+- Each commit must contain the number of epochs (other params are well accepted) in the message.
 
 
 ## Installing git lfs 
@@ -16,7 +17,7 @@ apt-get install git-lfs
 git lfs install
 ```
 
-## Downloading big files
+## Download .pth files
 
 - Clone LFS repo :
 ```bash
@@ -28,7 +29,7 @@ git lfs clone https://github.com/git-davi/DeepNnModels.git
 git lfs pull
 ```
 
-## Push .pth files to GitHub
+## Push .pth files
 
 - Track LFS files:
 ```bash
