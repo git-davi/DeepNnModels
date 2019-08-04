@@ -1,6 +1,7 @@
 # Repo for models and Datasets
 
 **_The directory is moving to [GoogleDrive](https://drive.google.com/open?id=1wVnDW9gHAos3A7OQGDjqsBAfATcaprGt)_**
+Refer to this [repo](https://github.com/git-davi/cycleGANDream), section _Moving big files without ssh and git lfs_ for moving model trained files
 
 
 ## Rules
