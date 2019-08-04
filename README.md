@@ -1,6 +1,6 @@
-# Repo for models
+# Repo for models and Datasets
 
-## Rule
+## Rules
 
 - Choose a name for the model directory based on the parameters of the net.
 - Each commit must contain the number of epochs (other params are well accepted) in the message.
